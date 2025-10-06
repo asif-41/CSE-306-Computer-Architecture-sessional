@@ -1,0 +1,32 @@
+# Assembly files
+# *.asm
+*.s
+*.o
+*.obj
+# *.exe
+*.out
+
+# Verilog/VHDL files
+*.vcd
+*.wlf
+
+# Simulation files
+*.sim
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build directories
+build/
+bin/
